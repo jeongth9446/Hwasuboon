@@ -1,0 +1,15 @@
+C:\Users\jeong\source\repos\Hwasuboon\bin\Debug\Hwasuboon.exe.config
+C:\Users\jeong\source\repos\Hwasuboon\bin\Debug\Hwasuboon.exe
+C:\Users\jeong\source\repos\Hwasuboon\bin\Debug\Hwasuboon.pdb
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.csprojAssemblyReference.cache
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.Properties.Resources.resources
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.csproj.GenerateResource.cache
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.csproj.CoreCompileInputs.cache
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.exe
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.pdb
+C:\Users\jeong\source\repos\Hwasuboon\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\jeong\source\repos\Hwasuboon\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.csproj.ResolveComReference.cache
+C:\Users\jeong\source\repos\Hwasuboon\obj\Debug\Hwasuboon.Form1.resources
